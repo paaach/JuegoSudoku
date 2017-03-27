@@ -12,6 +12,7 @@ import java.util.logging.Logger;
 /**
  * Clase main para jugar al Sudoku
  * @author David Pacheco
+ * Poniente Formacion
  * @version: 25/03/2017
  */
 public class JuegoSudoku {

@@ -10,7 +10,7 @@ import java.util.Random;
 /**
  * Clase para crear, modificar y eliminar Sudokus generados de forma aleatoria
  * @author David Pacheco
- * Poniente
+ * Poniente Formacion
  * @version: 25/03/2017
  */
 public class Sudoku
