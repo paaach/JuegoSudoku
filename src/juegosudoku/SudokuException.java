@@ -8,6 +8,7 @@ package juegosudoku;
 /**
  * Clase para tratar las diferentes excepciones de la clase Sudoku
  * @author David Pacheco
+ * Poniente Formacion
  * @version: 25/03/2017
  */
 public class SudokuException extends Exception {
